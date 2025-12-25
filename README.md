@@ -22,7 +22,7 @@ A beautiful landing page hero section that transforms rough website ideas into c
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo>
+git clone [<your-repo>](https://github.com/mahmoudismail9488/stunning.so.git)
 cd stunning.so
 npm install
 ```
